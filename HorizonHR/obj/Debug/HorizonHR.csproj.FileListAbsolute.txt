@@ -1,0 +1,236 @@
+C:\Users\marco\Desktop\Aplicação\HorizonHR\HorizonHR\bin\Debug\HorizonHR.exe.config
+C:\Users\marco\Desktop\Aplicação\HorizonHR\HorizonHR\bin\Debug\HorizonHR.exe
+C:\Users\marco\Desktop\Aplicação\HorizonHR\HorizonHR\bin\Debug\HorizonHR.pdb
+C:\Users\marco\Desktop\Aplicação\HorizonHR\HorizonHR\obj\Debug\HorizonHR.csproj.AssemblyReference.cache
+C:\Users\marco\Desktop\Aplicação\HorizonHR\HorizonHR\obj\Debug\HorizonHR.Empresas.resources
+C:\Users\marco\Desktop\Aplicação\HorizonHR\HorizonHR\obj\Debug\HorizonHR.Funcionarios.resources
+C:\Users\marco\Desktop\Aplicação\HorizonHR\HorizonHR\obj\Debug\HorizonHR.Properties.Resources.resources
+C:\Users\marco\Desktop\Aplicação\HorizonHR\HorizonHR\obj\Debug\HorizonHR.Home.resources
+C:\Users\marco\Desktop\Aplicação\HorizonHR\HorizonHR\obj\Debug\HorizonHR.Relatorios.resources
+C:\Users\marco\Desktop\Aplicação\HorizonHR\HorizonHR\obj\Debug\HorizonHR.TelaFolhasPgtos.resources
+C:\Users\marco\Desktop\Aplicação\HorizonHR\HorizonHR\obj\Debug\HorizonHR.TelaLogin.resources
+C:\Users\marco\Desktop\Aplicação\HorizonHR\HorizonHR\obj\Debug\HorizonHR.csproj.GenerateResource.cache
+C:\Users\marco\Desktop\Aplicação\HorizonHR\HorizonHR\obj\Debug\HorizonHR.csproj.CoreCompileInputs.cache
+C:\Users\marco\Desktop\Aplicação\HorizonHR\HorizonHR\obj\Debug\HorizonHR.exe
+C:\Users\marco\Desktop\Aplicação\HorizonHR\HorizonHR\obj\Debug\HorizonHR.pdb
+C:\Users\marco\Desktop\HorizonHR\HorizonHR\bin\Debug\HorizonHR.exe.config
+C:\Users\marco\Desktop\HorizonHR\HorizonHR\bin\Debug\HorizonHR.exe
+C:\Users\marco\Desktop\HorizonHR\HorizonHR\bin\Debug\HorizonHR.pdb
+C:\Users\marco\Desktop\HorizonHR\HorizonHR\obj\Debug\HorizonHR.csproj.AssemblyReference.cache
+C:\Users\marco\Desktop\HorizonHR\HorizonHR\obj\Debug\HorizonHR.Funcionarios.resources
+C:\Users\marco\Desktop\HorizonHR\HorizonHR\obj\Debug\HorizonHR.Properties.Resources.resources
+C:\Users\marco\Desktop\HorizonHR\HorizonHR\obj\Debug\HorizonHR.Home.resources
+C:\Users\marco\Desktop\HorizonHR\HorizonHR\obj\Debug\HorizonHR.TelaLogin.resources
+C:\Users\marco\Desktop\HorizonHR\HorizonHR\obj\Debug\HorizonHR.csproj.GenerateResource.cache
+C:\Users\marco\Desktop\HorizonHR\HorizonHR\obj\Debug\HorizonHR.csproj.CoreCompileInputs.cache
+C:\Users\marco\Desktop\HorizonHR\HorizonHR\obj\Debug\HorizonHR.exe
+C:\Users\marco\Desktop\HorizonHR\HorizonHR\obj\Debug\HorizonHR.pdb
+C:\Users\marco\Desktop\HorizonHR\HorizonHR\bin\Debug\Azure.Core.dll
+C:\Users\marco\Desktop\HorizonHR\HorizonHR\bin\Debug\Azure.Identity.dll
+C:\Users\marco\Desktop\HorizonHR\HorizonHR\bin\Debug\Dapper.dll
+C:\Users\marco\Desktop\HorizonHR\HorizonHR\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\marco\Desktop\HorizonHR\HorizonHR\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\marco\Desktop\HorizonHR\HorizonHR\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\marco\Desktop\HorizonHR\HorizonHR\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\marco\Desktop\HorizonHR\HorizonHR\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\marco\Desktop\HorizonHR\HorizonHR\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\marco\Desktop\HorizonHR\HorizonHR\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\marco\Desktop\HorizonHR\HorizonHR\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\marco\Desktop\HorizonHR\HorizonHR\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\marco\Desktop\HorizonHR\HorizonHR\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\marco\Desktop\HorizonHR\HorizonHR\bin\Debug\System.Buffers.dll
+C:\Users\marco\Desktop\HorizonHR\HorizonHR\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\marco\Desktop\HorizonHR\HorizonHR\bin\Debug\System.Data.SqlClient.dll
+C:\Users\marco\Desktop\HorizonHR\HorizonHR\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\marco\Desktop\HorizonHR\HorizonHR\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\marco\Desktop\HorizonHR\HorizonHR\bin\Debug\System.Memory.Data.dll
+C:\Users\marco\Desktop\HorizonHR\HorizonHR\bin\Debug\System.Memory.dll
+C:\Users\marco\Desktop\HorizonHR\HorizonHR\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\marco\Desktop\HorizonHR\HorizonHR\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\marco\Desktop\HorizonHR\HorizonHR\bin\Debug\System.Security.AccessControl.dll
+C:\Users\marco\Desktop\HorizonHR\HorizonHR\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\marco\Desktop\HorizonHR\HorizonHR\bin\Debug\System.Security.Permissions.dll
+C:\Users\marco\Desktop\HorizonHR\HorizonHR\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\marco\Desktop\HorizonHR\HorizonHR\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\marco\Desktop\HorizonHR\HorizonHR\bin\Debug\System.Text.Json.dll
+C:\Users\marco\Desktop\HorizonHR\HorizonHR\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\marco\Desktop\HorizonHR\HorizonHR\bin\Debug\System.ValueTuple.dll
+C:\Users\marco\Desktop\HorizonHR\HorizonHR\bin\Debug\Azure.Core.xml
+C:\Users\marco\Desktop\HorizonHR\HorizonHR\bin\Debug\Azure.Identity.xml
+C:\Users\marco\Desktop\HorizonHR\HorizonHR\bin\Debug\Dapper.xml
+C:\Users\marco\Desktop\HorizonHR\HorizonHR\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\marco\Desktop\HorizonHR\HorizonHR\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\marco\Desktop\HorizonHR\HorizonHR\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\marco\Desktop\HorizonHR\HorizonHR\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\marco\Desktop\HorizonHR\HorizonHR\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\marco\Desktop\HorizonHR\HorizonHR\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\marco\Desktop\HorizonHR\HorizonHR\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\marco\Desktop\HorizonHR\HorizonHR\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\marco\Desktop\HorizonHR\HorizonHR\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\marco\Desktop\HorizonHR\HorizonHR\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\marco\Desktop\HorizonHR\HorizonHR\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\marco\Desktop\HorizonHR\HorizonHR\bin\Debug\System.Buffers.xml
+C:\Users\marco\Desktop\HorizonHR\HorizonHR\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\marco\Desktop\HorizonHR\HorizonHR\bin\Debug\System.Data.SqlClient.xml
+C:\Users\marco\Desktop\HorizonHR\HorizonHR\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\marco\Desktop\HorizonHR\HorizonHR\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\marco\Desktop\HorizonHR\HorizonHR\bin\Debug\System.Memory.xml
+C:\Users\marco\Desktop\HorizonHR\HorizonHR\bin\Debug\System.Memory.Data.xml
+C:\Users\marco\Desktop\HorizonHR\HorizonHR\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\marco\Desktop\HorizonHR\HorizonHR\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\marco\Desktop\HorizonHR\HorizonHR\bin\Debug\System.Security.AccessControl.xml
+C:\Users\marco\Desktop\HorizonHR\HorizonHR\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\marco\Desktop\HorizonHR\HorizonHR\bin\Debug\System.Security.Permissions.xml
+C:\Users\marco\Desktop\HorizonHR\HorizonHR\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\marco\Desktop\HorizonHR\HorizonHR\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\marco\Desktop\HorizonHR\HorizonHR\bin\Debug\System.Text.Json.xml
+C:\Users\marco\Desktop\HorizonHR\HorizonHR\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\marco\Desktop\HorizonHR\HorizonHR\bin\Debug\System.ValueTuple.xml
+C:\Users\marco\Desktop\HorizonHR\HorizonHR\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\marco\Desktop\HorizonHR\HorizonHR\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\marco\Desktop\HorizonHR\HorizonHR\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\marco\Desktop\HorizonHR\HorizonHR\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\marco\Desktop\HorizonHR\HorizonHR\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\marco\Desktop\HorizonHR\HorizonHR\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\marco\Desktop\HorizonHR\HorizonHR\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\marco\Desktop\HorizonHR\HorizonHR\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\marco\Desktop\HorizonHR\HorizonHR\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\marco\Desktop\HorizonHR\HorizonHR\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\marco\Desktop\HorizonHR\HorizonHR\obj\Debug\HorizonHR.csproj.CopyComplete
+C:\Users\marco\Desktop\HorizonHR\HorizonHR\bin\Debug\Microsoft.OData.Edm.dll
+C:\Users\marco\Desktop\HorizonHR\HorizonHR\bin\Debug\Microsoft.OData.Edm.xml
+C:\Users\marco\Documents\3- Projetos\Backups Horizon\2- 23-10\HorizonHR\HorizonHR\bin\Debug\HorizonHR.exe.config
+C:\Users\marco\Documents\3- Projetos\Backups Horizon\2- 23-10\HorizonHR\HorizonHR\bin\Debug\HorizonHR.exe
+C:\Users\marco\Documents\3- Projetos\Backups Horizon\2- 23-10\HorizonHR\HorizonHR\bin\Debug\HorizonHR.pdb
+C:\Users\marco\Documents\3- Projetos\Backups Horizon\2- 23-10\HorizonHR\HorizonHR\bin\Debug\Azure.Core.dll
+C:\Users\marco\Documents\3- Projetos\Backups Horizon\2- 23-10\HorizonHR\HorizonHR\bin\Debug\Azure.Identity.dll
+C:\Users\marco\Documents\3- Projetos\Backups Horizon\2- 23-10\HorizonHR\HorizonHR\bin\Debug\Dapper.dll
+C:\Users\marco\Documents\3- Projetos\Backups Horizon\2- 23-10\HorizonHR\HorizonHR\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\marco\Documents\3- Projetos\Backups Horizon\2- 23-10\HorizonHR\HorizonHR\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\marco\Documents\3- Projetos\Backups Horizon\2- 23-10\HorizonHR\HorizonHR\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\marco\Documents\3- Projetos\Backups Horizon\2- 23-10\HorizonHR\HorizonHR\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\marco\Documents\3- Projetos\Backups Horizon\2- 23-10\HorizonHR\HorizonHR\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\marco\Documents\3- Projetos\Backups Horizon\2- 23-10\HorizonHR\HorizonHR\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\marco\Documents\3- Projetos\Backups Horizon\2- 23-10\HorizonHR\HorizonHR\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\marco\Documents\3- Projetos\Backups Horizon\2- 23-10\HorizonHR\HorizonHR\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\marco\Documents\3- Projetos\Backups Horizon\2- 23-10\HorizonHR\HorizonHR\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\marco\Documents\3- Projetos\Backups Horizon\2- 23-10\HorizonHR\HorizonHR\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\marco\Documents\3- Projetos\Backups Horizon\2- 23-10\HorizonHR\HorizonHR\bin\Debug\Microsoft.OData.Edm.dll
+C:\Users\marco\Documents\3- Projetos\Backups Horizon\2- 23-10\HorizonHR\HorizonHR\bin\Debug\System.Buffers.dll
+C:\Users\marco\Documents\3- Projetos\Backups Horizon\2- 23-10\HorizonHR\HorizonHR\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\marco\Documents\3- Projetos\Backups Horizon\2- 23-10\HorizonHR\HorizonHR\bin\Debug\System.Data.SqlClient.dll
+C:\Users\marco\Documents\3- Projetos\Backups Horizon\2- 23-10\HorizonHR\HorizonHR\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\marco\Documents\3- Projetos\Backups Horizon\2- 23-10\HorizonHR\HorizonHR\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\marco\Documents\3- Projetos\Backups Horizon\2- 23-10\HorizonHR\HorizonHR\bin\Debug\System.Memory.Data.dll
+C:\Users\marco\Documents\3- Projetos\Backups Horizon\2- 23-10\HorizonHR\HorizonHR\bin\Debug\System.Memory.dll
+C:\Users\marco\Documents\3- Projetos\Backups Horizon\2- 23-10\HorizonHR\HorizonHR\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\marco\Documents\3- Projetos\Backups Horizon\2- 23-10\HorizonHR\HorizonHR\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\marco\Documents\3- Projetos\Backups Horizon\2- 23-10\HorizonHR\HorizonHR\bin\Debug\System.Security.AccessControl.dll
+C:\Users\marco\Documents\3- Projetos\Backups Horizon\2- 23-10\HorizonHR\HorizonHR\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\marco\Documents\3- Projetos\Backups Horizon\2- 23-10\HorizonHR\HorizonHR\bin\Debug\System.Security.Permissions.dll
+C:\Users\marco\Documents\3- Projetos\Backups Horizon\2- 23-10\HorizonHR\HorizonHR\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\marco\Documents\3- Projetos\Backups Horizon\2- 23-10\HorizonHR\HorizonHR\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\marco\Documents\3- Projetos\Backups Horizon\2- 23-10\HorizonHR\HorizonHR\bin\Debug\System.Text.Json.dll
+C:\Users\marco\Documents\3- Projetos\Backups Horizon\2- 23-10\HorizonHR\HorizonHR\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\marco\Documents\3- Projetos\Backups Horizon\2- 23-10\HorizonHR\HorizonHR\bin\Debug\System.ValueTuple.dll
+C:\Users\marco\Documents\3- Projetos\Backups Horizon\2- 23-10\HorizonHR\HorizonHR\bin\Debug\Azure.Core.xml
+C:\Users\marco\Documents\3- Projetos\Backups Horizon\2- 23-10\HorizonHR\HorizonHR\bin\Debug\Azure.Identity.xml
+C:\Users\marco\Documents\3- Projetos\Backups Horizon\2- 23-10\HorizonHR\HorizonHR\bin\Debug\Dapper.xml
+C:\Users\marco\Documents\3- Projetos\Backups Horizon\2- 23-10\HorizonHR\HorizonHR\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\marco\Documents\3- Projetos\Backups Horizon\2- 23-10\HorizonHR\HorizonHR\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\marco\Documents\3- Projetos\Backups Horizon\2- 23-10\HorizonHR\HorizonHR\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\marco\Documents\3- Projetos\Backups Horizon\2- 23-10\HorizonHR\HorizonHR\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\marco\Documents\3- Projetos\Backups Horizon\2- 23-10\HorizonHR\HorizonHR\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\marco\Documents\3- Projetos\Backups Horizon\2- 23-10\HorizonHR\HorizonHR\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\marco\Documents\3- Projetos\Backups Horizon\2- 23-10\HorizonHR\HorizonHR\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\marco\Documents\3- Projetos\Backups Horizon\2- 23-10\HorizonHR\HorizonHR\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\marco\Documents\3- Projetos\Backups Horizon\2- 23-10\HorizonHR\HorizonHR\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\marco\Documents\3- Projetos\Backups Horizon\2- 23-10\HorizonHR\HorizonHR\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\marco\Documents\3- Projetos\Backups Horizon\2- 23-10\HorizonHR\HorizonHR\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\marco\Documents\3- Projetos\Backups Horizon\2- 23-10\HorizonHR\HorizonHR\bin\Debug\Microsoft.OData.Edm.xml
+C:\Users\marco\Documents\3- Projetos\Backups Horizon\2- 23-10\HorizonHR\HorizonHR\bin\Debug\System.Buffers.xml
+C:\Users\marco\Documents\3- Projetos\Backups Horizon\2- 23-10\HorizonHR\HorizonHR\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\marco\Documents\3- Projetos\Backups Horizon\2- 23-10\HorizonHR\HorizonHR\bin\Debug\System.Data.SqlClient.xml
+C:\Users\marco\Documents\3- Projetos\Backups Horizon\2- 23-10\HorizonHR\HorizonHR\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\marco\Documents\3- Projetos\Backups Horizon\2- 23-10\HorizonHR\HorizonHR\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\marco\Documents\3- Projetos\Backups Horizon\2- 23-10\HorizonHR\HorizonHR\bin\Debug\System.Memory.xml
+C:\Users\marco\Documents\3- Projetos\Backups Horizon\2- 23-10\HorizonHR\HorizonHR\bin\Debug\System.Memory.Data.xml
+C:\Users\marco\Documents\3- Projetos\Backups Horizon\2- 23-10\HorizonHR\HorizonHR\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\marco\Documents\3- Projetos\Backups Horizon\2- 23-10\HorizonHR\HorizonHR\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\marco\Documents\3- Projetos\Backups Horizon\2- 23-10\HorizonHR\HorizonHR\bin\Debug\System.Security.AccessControl.xml
+C:\Users\marco\Documents\3- Projetos\Backups Horizon\2- 23-10\HorizonHR\HorizonHR\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\marco\Documents\3- Projetos\Backups Horizon\2- 23-10\HorizonHR\HorizonHR\bin\Debug\System.Security.Permissions.xml
+C:\Users\marco\Documents\3- Projetos\Backups Horizon\2- 23-10\HorizonHR\HorizonHR\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\marco\Documents\3- Projetos\Backups Horizon\2- 23-10\HorizonHR\HorizonHR\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\marco\Documents\3- Projetos\Backups Horizon\2- 23-10\HorizonHR\HorizonHR\bin\Debug\System.Text.Json.xml
+C:\Users\marco\Documents\3- Projetos\Backups Horizon\2- 23-10\HorizonHR\HorizonHR\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\marco\Documents\3- Projetos\Backups Horizon\2- 23-10\HorizonHR\HorizonHR\bin\Debug\System.ValueTuple.xml
+C:\Users\marco\Documents\3- Projetos\Backups Horizon\2- 23-10\HorizonHR\HorizonHR\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\marco\Documents\3- Projetos\Backups Horizon\2- 23-10\HorizonHR\HorizonHR\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\marco\Documents\3- Projetos\Backups Horizon\2- 23-10\HorizonHR\HorizonHR\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\marco\Documents\3- Projetos\Backups Horizon\2- 23-10\HorizonHR\HorizonHR\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\marco\Documents\3- Projetos\Backups Horizon\2- 23-10\HorizonHR\HorizonHR\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\marco\Documents\3- Projetos\Backups Horizon\2- 23-10\HorizonHR\HorizonHR\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\marco\Documents\3- Projetos\Backups Horizon\2- 23-10\HorizonHR\HorizonHR\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\marco\Documents\3- Projetos\Backups Horizon\2- 23-10\HorizonHR\HorizonHR\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\marco\Documents\3- Projetos\Backups Horizon\2- 23-10\HorizonHR\HorizonHR\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\marco\Documents\3- Projetos\Backups Horizon\2- 23-10\HorizonHR\HorizonHR\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\marco\Documents\3- Projetos\Backups Horizon\2- 23-10\HorizonHR\HorizonHR\obj\Debug\HorizonHR.csproj.AssemblyReference.cache
+C:\Users\marco\Documents\3- Projetos\Backups Horizon\2- 23-10\HorizonHR\HorizonHR\obj\Debug\HorizonHR.CadastroContato.resources
+C:\Users\marco\Documents\3- Projetos\Backups Horizon\2- 23-10\HorizonHR\HorizonHR\obj\Debug\HorizonHR.CadastroFuncionarios.resources
+C:\Users\marco\Documents\3- Projetos\Backups Horizon\2- 23-10\HorizonHR\HorizonHR\obj\Debug\HorizonHR.Empresas.resources
+C:\Users\marco\Documents\3- Projetos\Backups Horizon\2- 23-10\HorizonHR\HorizonHR\obj\Debug\HorizonHR.Funcionarios.resources
+C:\Users\marco\Documents\3- Projetos\Backups Horizon\2- 23-10\HorizonHR\HorizonHR\obj\Debug\HorizonHR.Properties.Resources.resources
+C:\Users\marco\Documents\3- Projetos\Backups Horizon\2- 23-10\HorizonHR\HorizonHR\obj\Debug\HorizonHR.Home.resources
+C:\Users\marco\Documents\3- Projetos\Backups Horizon\2- 23-10\HorizonHR\HorizonHR\obj\Debug\HorizonHR.Relatorios.resources
+C:\Users\marco\Documents\3- Projetos\Backups Horizon\2- 23-10\HorizonHR\HorizonHR\obj\Debug\HorizonHR.TelaFolhasPgtos.resources
+C:\Users\marco\Documents\3- Projetos\Backups Horizon\2- 23-10\HorizonHR\HorizonHR\obj\Debug\HorizonHR.TelaLogin.resources
+C:\Users\marco\Documents\3- Projetos\Backups Horizon\2- 23-10\HorizonHR\HorizonHR\obj\Debug\HorizonHR.csproj.GenerateResource.cache
+C:\Users\marco\Documents\3- Projetos\Backups Horizon\2- 23-10\HorizonHR\HorizonHR\obj\Debug\HorizonHR.csproj.CoreCompileInputs.cache
+C:\Users\marco\Documents\3- Projetos\Backups Horizon\2- 23-10\HorizonHR\HorizonHR\obj\Debug\HorizonHR.csproj.CopyComplete
+C:\Users\marco\Documents\3- Projetos\Backups Horizon\2- 23-10\HorizonHR\HorizonHR\obj\Debug\HorizonHR.exe
+C:\Users\marco\Documents\3- Projetos\Backups Horizon\2- 23-10\HorizonHR\HorizonHR\obj\Debug\HorizonHR.pdb
+C:\Users\marco\Desktop\HorizonHR\HorizonHR\obj\Debug\HorizonHR.CadastroEmpresas.resources
+C:\Users\marco\Desktop\HorizonHR\HorizonHR\bin\Debug\itext.barcodes.dll
+C:\Users\marco\Desktop\HorizonHR\HorizonHR\bin\Debug\itext.bouncy-castle-connector.dll
+C:\Users\marco\Desktop\HorizonHR\HorizonHR\bin\Debug\itext.commons.dll
+C:\Users\marco\Desktop\HorizonHR\HorizonHR\bin\Debug\itext.forms.dll
+C:\Users\marco\Desktop\HorizonHR\HorizonHR\bin\Debug\itext.io.dll
+C:\Users\marco\Desktop\HorizonHR\HorizonHR\bin\Debug\itext.kernel.dll
+C:\Users\marco\Desktop\HorizonHR\HorizonHR\bin\Debug\itext.layout.dll
+C:\Users\marco\Desktop\HorizonHR\HorizonHR\bin\Debug\itext.pdfa.dll
+C:\Users\marco\Desktop\HorizonHR\HorizonHR\bin\Debug\itext.sign.dll
+C:\Users\marco\Desktop\HorizonHR\HorizonHR\bin\Debug\itext.styledxmlparser.dll
+C:\Users\marco\Desktop\HorizonHR\HorizonHR\bin\Debug\itext.svg.dll
+C:\Users\marco\Desktop\HorizonHR\HorizonHR\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\marco\Desktop\HorizonHR\HorizonHR\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\marco\Desktop\HorizonHR\HorizonHR\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\marco\Desktop\HorizonHR\HorizonHR\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\marco\Desktop\HorizonHR\HorizonHR\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\marco\Desktop\HorizonHR\HorizonHR\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\marco\Desktop\HorizonHR\HorizonHR\bin\Debug\Newtonsoft.Json.dll
+C:\Users\marco\Desktop\HorizonHR\HorizonHR\bin\Debug\itext.barcodes.xml
+C:\Users\marco\Desktop\HorizonHR\HorizonHR\bin\Debug\itext.bouncy-castle-connector.xml
+C:\Users\marco\Desktop\HorizonHR\HorizonHR\bin\Debug\itext.commons.xml
+C:\Users\marco\Desktop\HorizonHR\HorizonHR\bin\Debug\itext.forms.xml
+C:\Users\marco\Desktop\HorizonHR\HorizonHR\bin\Debug\itext.io.xml
+C:\Users\marco\Desktop\HorizonHR\HorizonHR\bin\Debug\itext.kernel.xml
+C:\Users\marco\Desktop\HorizonHR\HorizonHR\bin\Debug\itext.layout.xml
+C:\Users\marco\Desktop\HorizonHR\HorizonHR\bin\Debug\itext.pdfa.xml
+C:\Users\marco\Desktop\HorizonHR\HorizonHR\bin\Debug\itext.sign.xml
+C:\Users\marco\Desktop\HorizonHR\HorizonHR\bin\Debug\itext.styledxmlparser.xml
+C:\Users\marco\Desktop\HorizonHR\HorizonHR\bin\Debug\itext.svg.xml
+C:\Users\marco\Desktop\HorizonHR\HorizonHR\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\marco\Desktop\HorizonHR\HorizonHR\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\marco\Desktop\HorizonHR\HorizonHR\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\marco\Desktop\HorizonHR\HorizonHR\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\marco\Desktop\HorizonHR\HorizonHR\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\marco\Desktop\HorizonHR\HorizonHR\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\marco\Desktop\HorizonHR\HorizonHR\bin\Debug\Newtonsoft.Json.xml
+C:\Users\marco\Desktop\HorizonHR\HorizonHR\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\marco\Desktop\HorizonHR\HorizonHR\bin\Debug\itextsharp.dll
+C:\Users\marco\Desktop\HorizonHR\HorizonHR\bin\Debug\itextsharp.xml
+C:\Users\marco\Desktop\HorizonHR\HorizonHR\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\marco\Desktop\HorizonHR\HorizonHR\bin\Debug\itext.bouncy-castle-adapter.dll
+C:\Users\marco\Desktop\HorizonHR\HorizonHR\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\marco\Desktop\HorizonHR\HorizonHR\bin\Debug\itext.bouncy-castle-adapter.xml
